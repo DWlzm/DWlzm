@@ -1,10 +1,11 @@
 
 
 ## About Me / Bio
-I am **Zhongming Liu**, an undergraduate student at the School of Artificial Intelligence, Jiangxi Normal University.
+I am **Zhongming Liu**, a master's student at **Ocean University of China**.
 
-My research interests lie in **Computer Vision**, with a particular focus on:**Semantic Segmentation**, **Defect Segmentation**.
-Feel free to reach out via email: zhongmingliu2004@qq.com .
+My research interests lie in **Computer Vision**, with a particular focus on **Semantic Segmentation** and **Defect Segmentation**.
+
+Feel free to reach out via email: zhongmingliu2004@qq.com.
 
 ## Paper Publication
 
