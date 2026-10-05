@@ -1,0 +1,28 @@
+{
+    "scholarID": "DVFlCqoAAAAJ",
+    "jsonOutputFile": "bibliometrics.json",
+    "firstPubYear": 2024,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "include": [
+        "total-cites",
+        "five-year-cites",
+        "h-index",
+        "i10-index"
+    ],
+    "svgConfig": [
+        {
+            "filename": "scholar-stats-dark.svg",
+            "background": "#0d1117",
+            "border": "rgba(88, 166, 255, 0.4)",
+            "title": "#58a6ff",
+            "text": "#c9d1d9"
+        },
+        {
+            "filename": "scholar-stats-light.svg",
+            "background": "#ffffff",
+            "border": "rgba(84, 174, 255, 0.4)",
+            "title": "#0969da",
+            "text": "#24292f"
+        }
+    ]
+}
