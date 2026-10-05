@@ -3,6 +3,16 @@
 ## About Me / Bio
 I am **Zhongming Liu**, a master's student at **Ocean University of China**. My research interests lie in **Computer Vision**. Feel free to reach out via email: zhongmingliu2004@qq.com.
 
+
+## 📊 Citation Metrics
+
+<a href="https://scholar.google.com/citations?user=DVFlCqoAAAAJ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DWlzm/DWlzm/main/scholar-stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/DWlzm/DWlzm/main/scholar-stats-light.svg" alt="Google Scholar Stats">
+  </picture>
+</a>
+
 ## Paper Publication
 
 ### 2026
