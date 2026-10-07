@@ -1,28 +1,14 @@
-
-
 ## About Me / Bio
+
 I am **Zhongming Liu**, a master's student at **Ocean University of China**. My research interests lie in **Computer Vision**. Feel free to reach out via email: zhongmingliu2004@qq.com.
-
-
-## 🔬 Research Interests
-
-### 🏥 Medical Image Segmentation
-![Medical Imaging](https://img.shields.io/badge/🏥-Medical_Imaging-2196F3?style=flat) ![Semantic Segmentation](https://img.shields.io/badge/Semantic_Segmentation-42A5F5?style=flat) ![Chest X-ray](https://img.shields.io/badge/Chest_X--ray-64B5F6?style=flat) ![U-Net](https://img.shields.io/badge/U--Net_Attention-90CAF9?style=flat)
-
-### 🏭 Industrial Defect Detection
-![Surface Defect](https://img.shields.io/badge/🏭-Surface_Defect-FF9800?style=flat) ![Steel Defect](https://img.shields.io/badge/Steel_Defect_F2_FB-FFA726?style=flat) ![Lightweight Network](https://img.shields.io/badge/Lightweight_Net-FFB74D?style=flat) ![Real-time Inspection](https://img.shields.io/badge/Real--time_Inspection-FFCC80?style=flat)
-
-### 🛰️ Hyperspectral Image Processing
-![HSI Classification](https://img.shields.io/badge/🛰️-HSI_Classification-9C27B0?style=flat) ![HSI Super-Resolution](https://img.shields.io/badge/HSI_Super--Resolution-AB47BC?style=flat) ![HSI Denoising](https://img.shields.io/badge/HSI_Denoising-CE93D8?style=flat) ![Deep Learning](https://img.shields.io/badge/Deep_Learning_Transformer-E1BEE7?style=flat)
-
 
 ## 📊 Citation Metrics
 
 <a href="https://scholar.google.com/citations?user=DVFlCqoAAAAJ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DWlzm/DWlzm/main/scholar-stats-dark.svg">
-    <img src="https://raw.githubusercontent.com/DWlzm/DWlzm/main/scholar-stats-light.svg" alt="Google Scholar Stats">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DWlzm/DWlzm/main/scholar-stats-dark.svg">
+<img src="https://raw.githubusercontent.com/DWlzm/DWlzm/main/scholar-stats-light.svg" alt="Google Scholar Stats">
+</picture>
 </a>
 
 ## Paper Publication
@@ -31,7 +17,7 @@ I am **Zhongming Liu**, a master's student at **Ocean University of China**. My 
 
 **SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**  
 Zhongming Liu, Bingbing Jiang, Guangxin Wan, Xiang Zou  
-[[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv)](https://arxiv.org/abs/2607.21456) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/SPDCN)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv)](https://arxiv.org/abs/2607.21456) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/SPDCN)
 
 **MobileSteelNet: A Lightweight Steel Surface Defect Classification Network with Cross-Interactive Efficient Multi-Scale Attention**  
 Xiang Zou, Zhongming Liu, Chengjun Xu, Jiawei Zhang, Zhaoyu Li  
@@ -46,4 +32,3 @@ Zhongming Liu, Bingbing Jiang
 **SGMSNet: Spatial-Gated Memory Network for Chest X-ray Image Segmentation**  
 Zhongming Liu, Xin Huang, Li Xiao, Xiang Zou  
 [![Paper](https://img.shields.io/badge/Paper-IEEE-00629?logo=ieee)](https://ieeexplore.ieee.org/document/11239364) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/SGMSNet)
-
