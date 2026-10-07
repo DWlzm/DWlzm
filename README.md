@@ -4,6 +4,18 @@
 I am **Zhongming Liu**, a master's student at **Ocean University of China**. My research interests lie in **Computer Vision**. Feel free to reach out via email: zhongmingliu2004@qq.com.
 
 
+## 🔬 Research Interests
+
+### 🏥 Medical Image Segmentation
+![Medical Imaging](https://img.shields.io/badge/🏥-Medical_Imaging-2196F3?style=flat) ![Semantic Segmentation](https://img.shields.io/badge/Semantic_Segmentation-42A5F5?style=flat) ![Chest X-ray](https://img.shields.io/badge/Chest_X--ray-64B5F6?style=flat) ![U-Net](https://img.shields.io/badge/U--Net_Attention-90CAF9?style=flat)
+
+### 🏭 Industrial Defect Detection
+![Surface Defect](https://img.shields.io/badge/🏭-Surface_Defect-FF9800?style=flat) ![Steel Defect](https://img.shields.io/badge/Steel_Defect_F2_FB-FFA726?style=flat) ![Lightweight Network](https://img.shields.io/badge/Lightweight_Net-FFB74D?style=flat) ![Real-time Inspection](https://img.shields.io/badge/Real--time_Inspection-FFCC80?style=flat)
+
+### 🛰️ Hyperspectral Image Processing
+![HSI Classification](https://img.shields.io/badge/🛰️-HSI_Classification-9C27B0?style=flat) ![HSI Super-Resolution](https://img.shields.io/badge/HSI_Super--Resolution-AB47BC?style=flat) ![HSI Denoising](https://img.shields.io/badge/HSI_Denoising-CE93D8?style=flat) ![Deep Learning](https://img.shields.io/badge/Deep_Learning_Transformer-E1BEE7?style=flat)
+
+
 ## 📊 Citation Metrics
 
 <a href="https://scholar.google.com/citations?user=DVFlCqoAAAAJ">
