@@ -17,19 +17,21 @@ I am **Zhongming Liu**, a master's student at **Ocean University of China**. My 
 
 ### 2026
 
-2026.7 \
-SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation \
-**Zhongming Liu**, Bingbing Jiang, Guangxin Wan, Xiang Zou   <a href="https://arxiv.org/abs/2607.21456">PDF</a> <a href="https://github.com/DWlzm/SPDCN"> Code </a> \
-2026.1 \
-MobileSteelNet: A Lightweight Steel Surface Defect Classification Network with Cross-Interactive Efficient Multi-Scale Attention \
-Xiang Zou, **Zhongming Liu**, Chengjun Xu, Jiawei Zhang, Zhaoyu Li <a href="https://www.mdpi.com/1424-8220/26/3/1022">PDF</a> <a href="https://github.com/DWlzm/MobileSteelNet"> Code </a> \
-2026.1 \
-Revisiting the Ordering of Channel and Spatial Attention: A Comprehensive Study on Sequential and Parallel Designs \
-**Zhongming Liu**, Bingbing Jiang  <a href="https://arxiv.org/abs/2601.07310">PDF</a> <a href="https://github.com/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention">Code</a>
+**SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**  
+Zhongming Liu, Bingbing Jiang, Guangxin Wan, Xiang Zou  
+[[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv)](https://arxiv.org/abs/2607.21456) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/SPDCN)
+
+**MobileSteelNet: A Lightweight Steel Surface Defect Classification Network with Cross-Interactive Efficient Multi-Scale Attention**  
+Xiang Zou, Zhongming Liu, Chengjun Xu, Jiawei Zhang, Zhaoyu Li  
+[![Paper](https://img.shields.io/badge/Paper-MDPI-00798?logo=mdpi)](https://www.mdpi.com/1424-8220/26/3/1022) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/MobileSteelNet)
+
+**Revisiting the Ordering of Channel and Spatial Attention: A Comprehensive Study on Sequential and Parallel Designs**  
+Zhongming Liu, Bingbing Jiang  
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv)](https://arxiv.org/abs/2601.07310) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention)
+
 ### 2025
 
-2025.8 \
-SGMSNet: Spatial-Gated Memory Network for Chest X-ray Image Segmentation \
-**Zhongming, Liu** and Huang, Xin and Li, Xiao and Zou, Xiang  <a href="https://ieeexplore.ieee.org/document/11239364">PDF</a> <a href="https://github.com/DWlzm/SGMSNet">Code</a>
-
+**SGMSNet: Spatial-Gated Memory Network for Chest X-ray Image Segmentation**  
+Zhongming Liu, Xin Huang, Li Xiao, Xiang Zou  
+[![Paper](https://img.shields.io/badge/Paper-IEEE-00629?logo=ieee)](https://ieeexplore.ieee.org/document/11239364) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/SGMSNet)
 
