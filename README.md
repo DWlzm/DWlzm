@@ -26,7 +26,7 @@ Xiang Zou, Zhongming Liu, Chengjun Xu, Jiawei Zhang, Zhaoyu Li
 
 **Revisiting the Ordering of Channel and Spatial Attention: A Comprehensive Study on Sequential and Parallel Designs**  
 Zngming Liu, Bingbing Jiang  
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv)](https://arxiv.org/abs/2601.07310) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention) ![GitHub stars](https://img.shields.io/github/stars/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention?style=flat&logo=github) ![GitHub forks](https://img.shields.io/github/forks/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention?style=flat&logo=github)
+[![Paper](https://img.shields.io/badge/Paper-Springer-DE4F0?logo=springer)](https://link.springer.com/article/10.1007/s11760-026-05312-7) [![Code](https://img.shields.io/badge/Code-Open-181717?logo=github)](https://github.com/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention) ![GitHub stars](https://img.shields.io/github/stars/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention?style=flat&logo=github) ![GitHub forks](https://img.shields.io/github/forks/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention?style=flat&logo=github)
 
 
 ### 2025
