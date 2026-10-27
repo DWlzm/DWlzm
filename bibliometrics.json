@@ -1,14 +1,14 @@
 {
-    "a-index": 7.5,
-    "e-index": 3.32,
-    "five-year-cites": 19,
+    "a-index": 7.0,
+    "e-index": 3.46,
+    "five-year-cites": 23,
     "g-index": 4,
-    "h-index": 2,
-    "h-median": 7.5,
+    "h-index": 3,
+    "h-median": 9,
     "i10-index": 0,
-    "m-quotient": 1.0,
-    "most-cited": 8,
-    "o-index": 4,
-    "r-index": 3.87,
-    "total-cites": 19
+    "m-quotient": 1.5,
+    "most-cited": 9,
+    "o-index": 5,
+    "r-index": 4.58,
+    "total-cites": 23
 }
