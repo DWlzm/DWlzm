@@ -14,6 +14,8 @@ I am **Zhongming Liu**, a master's student at **Ocean University of China**. My 
 ## Paper Publication
 
 ### 2026
+Frequency-Spatial Attention Network with Dual Color Space Fusion for Underwater Image Enhancement
+
 
 **SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**  
 Zhongming Liu, Bingbing Jiang, Guangxin Wan, Xiang Zou  
